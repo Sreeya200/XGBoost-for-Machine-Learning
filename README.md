@@ -1,5 +1,5 @@
 
-# 📊 XGBoost Regression for Diabetes Prediction  
+# 📊 XGBoost for Diabetes Prediction  
 
 ## 📌 Overview  
 This project implements an **XGBoost Regressor** to predict diabetes progression using the **Diabetes dataset** from `sklearn.datasets`. It includes:  
